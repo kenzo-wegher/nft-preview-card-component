@@ -1,0 +1,23 @@
+/* COLORS */
+
+:root {
+
+--Soft-blue: hsla(215, 51%, 70%, 0.7);
+--Cyan: hsl(178, 100%, 50%);
+
+// main BG
+--Very-dark-blue-main: hsl(217, 54%, 11%);
+
+//card BG
+--Very-dark-blue-card: hsl(216, 50%, 16%);
+
+//line
+--Very-dark-blue-line: hsl(215, 32%, 27%);
+
+--White: hsl(0, 0%, 100%);
+}
+
+
+/* TYPOGRAPHY */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
